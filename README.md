@@ -10,12 +10,14 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Run each of the files to display answers for the question.
 
+## Questions For Dataset:
 **Q1 - What factors best predict total heat and energy consumed? What expected energy consumption levels do these factors predict at large values?**
 <br>
 Linear Regression
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Q1LinearRegression.m
-![GitHub Logo](./src/Fig1LinReg.png)
+
+
 
 **Q2 - Are the input factors redundant?**
 <br>
@@ -36,3 +38,4 @@ K-Means
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+[//]: # (![GitHub Logo](./src/Fig1LinReg.png))
