@@ -55,10 +55,7 @@ K-Means
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Q3MasterKMeans.m
 
-<img src="./src/Fig7aKMeans.png" alt="2 KMeans" style="width: 49%;"/>
-<img src="./src/Fig7bKMeans.png" alt="3 KMeans" style="width: 49%;"/>
-<img src="./src/Fig7cKMeans.png" alt="4 KMeans" style="width: 49%;"/>
-<img src="./src/Fig7dKMeans.png" alt="5 KMeans" style="width: 49%;"/>
+<img src="./src/Fig8KMeansAnalysis.png" alt="5 KMeans" style="width: 100%;"/>
 
 Figure 6: (2-5 K-Means) Top left: 2 K-Means, Top right: 3 K-Means, Bottom left: 4 K-Means, Bottom right 5 K-Means
 
