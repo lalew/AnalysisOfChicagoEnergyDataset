@@ -71,5 +71,3 @@ During the course of this project, there were different features associated with
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-[//]: # (![GitHub Logo](./src/Fig1LinReg.png))
